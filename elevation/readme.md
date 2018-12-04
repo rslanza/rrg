@@ -1,0 +1,2 @@
+![Map of various cliff elevations in the area surrounding Gray's Arch, Red River Gorge.](C:\rslanzaGIS\geo409-module-07-rslanza\graysarchelevationmap.pdf)
+![Gray's Arch Flyby](URL:https://youtu.be/LQF_dv75jqQ)
